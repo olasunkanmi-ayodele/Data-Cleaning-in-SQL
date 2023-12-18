@@ -1,2 +1,2 @@
-# Brand-Name-Generator
-This is a project that generates a brand name for anyone or business by answering some questions 
+#Data cleaning in SQL
+This is a guided project by Alex the Analyst on how to  clean data in SQL.
